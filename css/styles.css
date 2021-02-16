@@ -1,0 +1,78 @@
+div {
+  background: #E4F9F5;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  font-size: 5rem;
+  color:  #66BFBF;
+  line-height: 1;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+    color:  #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: double none;
+  border-color: #71c9ce;
+  height: 0.2rem;
+}
+
+.topContainer {
+  position: relative;
+  padding-top: 140px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 310px;
+  left: 430px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 90px;
+  right: 470px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profpic {
+  width: 240px;
+  margin-top: 2rem;
+}
+
+.renovationimg {
+  width: 220px;
+  position: relative;
+  left: 15px;
+}
+
+.burgerimg {
+  width: 200px;
+}
+
+.aprogramer {
+  font-weight: normal;
+}
